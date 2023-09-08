@@ -4,11 +4,9 @@
         <a href="https://www.linkedin.com/in/stefan-lazarevic-a5b60413a/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        
         <a href="mailto:stefanlaza97@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
-    
         <a href="https://wellfound.com/u/stefan-lazarevic-3">
             <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
         </a>
@@ -29,6 +27,7 @@ I'm a full-stack engineer and biomedical researcher alternating between Vancouve
 I'm open to Full-Stack, Backend, or Frontend Engineering roles, as well as positions in biomedical engineering. Feel free to reach out!
   
 ---
+
 ## Languages & Tools:
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -49,9 +48,11 @@ I'm open to Full-Stack, Backend, or Frontend Engineering roles, as well as posit
 ---
 
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elliotchang126&theme=dark&background=000000)](https://git.io/streak-stats)
-    
-    ---
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotchang126&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=stefanlazarevic97&theme=dark&background=000000" alt="GitHub Streak" />
+    </a>
+    <hr>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanlazarevic97&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </a>
 </div>
