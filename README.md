@@ -15,7 +15,7 @@
   
 ---
 
-<h1 align='center'>My name is Stefan Lzarevic!</h1>
+<h1 align='center'>My name is Stefan Lazarevic!</h1>
 
 I'm a full-stack engineer and biomedical researcher alternating between Vancouver, Canada, and San Francisco, with expertise in Rails, React, Redux, Express, MongoDB, and PostgreSQL.
 
