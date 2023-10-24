@@ -24,7 +24,7 @@ I'm a full-stack engineer and biomedical researcher in San Francisco, CA with ex
 - I have a strong background in biomedical engineering. My most recent research at the Implantable Biosensing Laboratory focused on blood-flow restriction training, using LabVIEW and MATLAB for data analysis and signal processing.
 - Currently, I'm dedicating time to sharpen my skills in Data Structures and Algorithms, seeking to deepen my understanding of complex problem-solving in both software and healthcare.
 
-I'm open to full-stack, backend, or frontend engineering roles, as well as biomedical or clinical engineering positions. Feelto reach out!
+I'm open to full-stack, backend, or frontend engineering roles, as well as biomedical or clinical engineering positions. Feeto reach out!
   
 ---
 
