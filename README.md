@@ -17,7 +17,7 @@
 
 <h1 align='center'>My name is Stefan Lazarevic!</h1>
 
-I'm a full-stack engineer and biomedical researcher in San Francisc, CA with expertise in Rails, React, Redux, Express, MongoDB, and PostgreSQL.
+I'm a full-stack engineer and biomedical researcher in San Francis, CA with expertise in Rails, React, Redux, Express, MongoDB, and PostgreSQL.
 
 - My flagship project is "Reps 'N' Recipes", a comprehensive fitness and nutrition tracker. Built on the MERN stack, it features real-time analytics on performance and dietary intake, and utilizes MongoDB and AWS S3 for scalable storage. Check it out in my pinned repos!
 - Another proud accomplishment is "Fakebook," a social media platform replicating Facebook's core functionalities. The backend is architected using Ruby on Rails and PostgreSQL, and the frontend is designed with React and Redux. Page load times are optimized by 40% through advanced caching.
