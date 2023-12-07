@@ -22,7 +22,7 @@ I'm a full-stack engineer and biomedical researcher in San Francisco, CA with ex
 - My flagship project is "Reps 'N' Recipes", a comprehensive fitness and nutrition tracker. Built on the MERN stack, it features real-time analytics on performance and dietary intake, and utilizes MongoDB and AWS S3 for scalable storage. Check it out in my pinned repos!
 - Another proud accomplishment is "Fakebook," a social media platform replicating Facebook's core functionalities. The backend is architected using Ruby on Rails and PostgreSQL, and the frontend is designed with React and Redux. Page load times are optimized by 40% through advanced caching.
 - I have a strong background in biomedical engineering. My most recent research at the Implantable Biosensing Laboratory focused on blood-flow restriction training, using LabVIEW and MATLAB for data analysis and signal processing.
-- Currently, I'm dedicating time to sharpen my skills in Data Structures and Algorithms, seeking to deepen my understanding of complex problem-solving in both tware and healthcare.
+- Currently, I'm dedicating time to sharpen my skills in Data Structures and Algorithms, seeking to deepen my understanding of complex problem-solving in both software and healthcare.
 
 I'm open to full-stack, backend, or frontend engineering roles, as well as biomedical or clinical engineering positions. Feel free to reach out!
   
